@@ -28,3 +28,12 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 
+## `Steps to Setup Locally on You Computer / Laptop`
+1. Make sure you have installed node js.
+2. And Also make sure that your in the correct Directory
+3. If you have a Node Js Error Then Try  npm install in you terminal
+4. If styles are not applied try of installing Tailwind CSS
+5. If nothing works feel free to connect me.
+6. After you setup Locally, Make you Ideas and make this app more creative.
+
+
